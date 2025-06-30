@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Montserrat:wght@400;500;600;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -52,7 +54,7 @@
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
+    --background: 26 28% 11%;
     --foreground: 210 40% 98%;
 
     --card: 222.2 84% 4.9%;
